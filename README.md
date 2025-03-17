@@ -18,3 +18,4 @@ Here's the tabular representation of the handwritten notes:
 | osd.7 | node03 | /dev/sdb |
 | osd.8 | node03 | /dev/sdc |
 
+OSD means object storage daemon which is running as daemon service it is always talk to your physical disk /dev/sda or virtual disk /dev/vda, talking means - data read and write operation 
